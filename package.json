@@ -1,8 +1,8 @@
 {
   "name": "grace-gray",
-  "displayName": "Grace Gray Theme",
+  "displayName": "Grace Gray",
   "description": "A graceful gray theme.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "SUPERTSY5",
   "repository": "https://github.com/supertsy5/grace-gray",
   "engines": {
