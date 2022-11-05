@@ -2,7 +2,8 @@
   "name": "grace-gray",
   "displayName": "Grace Gray Theme",
   "description": "A graceful gray theme.",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "repository": "https://github.com/supertsy5/grace-gray",
   "engines": {
     "vscode": "^1.73.0"
   },
