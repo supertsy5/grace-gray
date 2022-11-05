@@ -1,0 +1,21 @@
+{
+  "name": "grace-gray",
+  "displayName": "Grace Gray Theme",
+  "description": "A graceful gray theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Grace Gray",
+        "uiTheme": "vs",
+        "path": "./themes/grace-gray.json"
+      }
+    ]
+  }
+}
