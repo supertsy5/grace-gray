@@ -115,7 +115,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#0000cc"
+				"foreground": "#0033cc"
 			}
 		},
 		{
@@ -125,7 +125,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#0000cc"
+				"foreground": "#0033cc"
 			}
 		},
 		{
@@ -156,7 +156,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#664400"
+				"foreground": "#663300"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"name": "Strings: Escape Sequences",
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#664400"
+				"foreground": "#996600"
 			}
 		},
 		{
@@ -252,14 +252,14 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#91B3E0"
+				"foreground": "#0033cc"
 			}
 		},
 		{
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#0033cc"
 			}
 		},
 		{
@@ -269,8 +269,7 @@
 				"entity.other.attribute-name.html"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#91B3E0"
+				"foreground": "#006666"
 			}
 		},
 		{
@@ -302,7 +301,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#000066"
+				"foreground": "#0033cc"
 			}
 		},
 		{
