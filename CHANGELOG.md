@@ -4,6 +4,11 @@ All notable changes to the "grace-gray" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.0.2
+- Changed some colors
+- Enabled Semantic highlighting
+- Added commands to preview UI items
+
 ## 1.0.1
 - Changed some colors to improve readability
 

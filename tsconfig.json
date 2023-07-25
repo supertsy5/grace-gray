@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "outDir": "out",
+        "moduleResolution": "NodeNext"
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
