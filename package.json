@@ -2,7 +2,7 @@
     "name": "grace-gray",
     "displayName": "Grace Gray",
     "description": "A graceful gray theme.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "SUPERTSY5",
     "main": "./out/main.js",
     "repository": {

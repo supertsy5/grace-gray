@@ -4,6 +4,10 @@ All notable changes to the "grace-gray" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.0.3 - 2025-02-12
+### Added
+- Added color for the title bar
+
 ## 1.0.2
 - Changed some colors
 - Enabled Semantic highlighting

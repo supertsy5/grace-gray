@@ -74,7 +74,9 @@
 		"statusBarItem.warningForeground": "#ffffff",
 		"tab.activeBackground": "#e1e1e7",
 		"tab.border": "#00000022",
-		"tab.inactiveBackground": "#d8d8e0"
+		"tab.inactiveBackground": "#d8d8e0",
+		"titleBar.activeBackground": "#d8d8e0",
+		"titleBar.inactiveBackground": "#d8d8e0",
 	},
 	"tokenColors": [
 		{
