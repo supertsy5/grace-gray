@@ -39,11 +39,15 @@
 		"list.focusHighlightForeground": "#77bbff",
 		"list.highlightForeground": "#115599",
 		"list.focusOutline": "#0006",
-		"list.hoverBackground": "#e1e1e7",
+		"list.hoverBackground": "#678",
+		"list.hoverForeground": "#fff",
 		"list.inactiveSelectionBackground": "#e1e1e7",
 		"list.invalidItemForeground": "#333333",
 		"menu.background": "#e1e1e7",
 		"minimap.findMatchHighlight": "#0080ff66",
+		"modernTab.activeBackground": "#d0d0d8",
+		"modernTab.hoverBackground": "#d8d8e0",
+		"modernTab.hoverForeground": "#111111",
 		"panel.background": "#e1e1e7",
 		"peekView.border": "#667788",
 		"peekViewEditor.background": "#e1e1e7",
@@ -222,7 +226,10 @@
 		},
 		{
 			"name": "Strings",
-			"scope": ["string", "punctuation.definition.string"],
+			"scope": [
+				"string",
+				"punctuation.definition.string"
+			],
 			"settings": {
 				"foreground": "#993300"
 			}
